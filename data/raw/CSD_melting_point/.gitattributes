@@ -1,0 +1,2 @@
+melting_point_fps.job filter=lfs diff=lfs merge=lfs -text
+melting_point_rdkit_2d.job filter=lfs diff=lfs merge=lfs -text
